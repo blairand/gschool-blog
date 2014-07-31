@@ -1,0 +1,15 @@
+{
+    "title": "I Went to gSchool",
+    "description": "an FAQ for people that attended long-term programming programs.",
+    "links": {
+        "home": null,
+        "about": null,
+        "issues": null,
+        "contribute": null,
+        "sharing": {
+            "github": "blairanderson",
+            "facebook": "blairanderson",
+            "twitter": "blairanderson"
+        }
+    }
+}
