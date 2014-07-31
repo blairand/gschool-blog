@@ -1,5 +1,13 @@
 # F.A.Q - Frequently Asked Questions
 
+**What did you think of your fellow students? Were they doing the program with the goal of becoming a serious programmer, picking it up as a hobby, applying the skills towards a current job?**
+**What did you think of the teachers and the class environment? Was the learning primarily focused on practice or theory?**
+**What do you think of Ruby on Rails? Would you recommend it to someone learning a language for the first time or do you think another language such as Python would be more beneficial?**
+**What did you think about the length of the program. I've noticed that most programs similar to gSchool are shorter. Do you think this was a good thing or was it overwhelming at times?**
+**Did you look at other programs such as RefactorU or DaVinci Coders? Is there a reason you chose gSchool over these ones?**
+**Did you find gSchool helpful in connecting you with people in the industry and ultimately landing a job?**
+**Where do you currently work? Do you feel like gSchool gave you the necessary skills to succeed there?**
+
 **Did you  have any prior web development or programming knowledge?**
 > Yes I had done a few online tutorials, like:
   -  codecademy
