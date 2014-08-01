@@ -26,7 +26,7 @@ Please read all the questions and Answers before you send me questions. Its like
 What did you think about the length of the program? Most programs similar to gSchool are shorter. Would you go again to a 6-month program or just an 8-12 week one? Was it overwhelming or stressful at times? Is the pace intense or moderate for most people?
 **
 > Hopefully you can see this image below, but this is *basically* what it takes to be a web developer. In other words, this is basically what is *required* to become a web developer.
-[![Alt text](/assets/rails_brains.png)](/assets/rails_brains.png)
+[![Alt text](/cover.jpg)](/cover.jpg)
 
 > To be clear, I think the 6-month length is perfect. Shorter would be super difficult to learn things every well.
 > A few people have dedicated their lives to each little blip on the map above. Its nearly impossible to get an expert level understanding of these topics in 6 months from scratch, and I cannot imagine trying to learn this in 12 weeks.
