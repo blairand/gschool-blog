@@ -15,14 +15,22 @@
 > No i'm from Seattle. I left/sold everything in Seattle to move to Denver for gSchool in galvanize. I found housing on craigslist with another student i was introduced to through email before we got to Denver.
 
 **What do you think of Ruby on Rails? Would you recommend it to someone learning a language for the first time or do you think another language such as Python would be more beneficial?**
-> To clarify, ruby and python are languages. Rails is a tool that helps you build websites and is written in ruby.
->I think ruby/rails is a great place to start. Its got a huge community and that means there are a lot of beginners asking the same questions.  It almost guarantees that any question you have has been asked before, and I cannot say the same for node or python.
+> To clarify, ruby is a language, and Rails is a tool that helps you build websites. Rails is written in ruby.
+>I think ruby/rails is a great place to start. Its got a huge community and that means there are a lot of beginners asking the same questions. There are also many rails experts.  It almost guarantees that any question you have has been asked before, and answered before, and I cannot say the same for node or python.
 
 **What did you think about the length of the program? Most programs similar to gSchool are shorter. Would you go again to a 6-month program or just an 8-12 week one? Was it overwhelming or stressful at times? Is the pace intense or moderate for most people?**
-> Hopefully you can see this image below, but this is *basically* what it takes to be a web developer. In other words, this is basically what is *required* to become a web developer.
-[![Alt text](/cover.jpg)](/cover.jpg)
 
-> To be clear, I think the 6-month length is perfect. Shorter would be super difficult to learn things every well.
+[*Long Answer*]()
+
+
+>**TL;DR** 6-month length is perfect. Shorter would not give enough time to get thorough feedback on your projects. In the beginning, you can only get better by reading/writing more code. Laws of physics have proven you can do more of XYZ in 24-weeks than you can in 12 weeks. Beyond writing more code, you have twice as much time to get feedback from teachers, peers, mentors that are focused on getting you a job.
+
+> Short-term programming schools(less than 1-year) have not been around that long, so we're currently seeing a marketplace flooded with bootcamps that are 8-weeks, 10-weeks, 12-weeks, etc. and they're still experimenting but have taken the risk mostly off themselves by
+
+> I think the 6-month length is perfect. Shorter would be super difficult to learn things every well.
+> Hopefully you can see this image below, but this is *basically* whats is required to be a web developer.
+[![Alt text](/cover.png)](/cover.png)
+
 > A few people have dedicated their lives to each little blip on the map above. Its nearly impossible to get an expert level understanding of these topics in 6 months from scratch, and I cannot imagine trying to learn this in 12 weeks.
 >It *is* possible to hear a bunch of words that might resemble things you understand, but if you're new to development then you're hearing hundreds of new words and concepts.
 - www(The Internet)
