@@ -19,13 +19,9 @@
 
 **What did you think about the length of the program? Most programs similar to gSchool are shorter. Would you go again to a 6-month program or just an 8-12 week one? Was it overwhelming or stressful at times? Is the pace intense or moderate for most people?**
 
-[*Long Answer*]()
+> 5-7-months is perfect. Shorter would not be enough time for thorough feedback. You can only get better by reading/writing more code and obviously you can do more in 24-weeks than you can in 12 weeks. Beyond writing more code you have twice as much time to get feedback from teachers, peers, mentors that are genuinely interested in helping educate you. Hopefully you can see this image below, but this is *basically* whats is required to be a web developer.
 
-
-> 5-7-months is perfect. Shorter would not be enough time for thorough feedback. You can only get better by reading/writing more code and obviously you can do more in 24-weeks than you can in 12 weeks. Beyond writing more code you have twice as much time to get feedback from teachers, peers, mentors that are genuinely interested in helping educate you.
-
-> Hopefully you can see this image below, but this is *basically* whats is required to be a web developer.
-[![Alt text](/cover.png)](/cover.png)
+[![Alt text](/cover.jpg)](/cover.jpg)
 
 
 - www(The Internet)
