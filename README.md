@@ -1,14 +1,18 @@
 [Download this Book in Other Formats](https://www.gitbook.io/book/blairanderson/i-went-to-gschool)
 
-# FAQ
+Please send more questions if you have them! A rough estimation is that you need 100 hours to get comfortable, 500 hours to be dangerous, and 1000 hours to be productive.
+Thats 12.5 days to get comfortable, 12 weeks to be dangerous, and 24 weeks to be productive. Thats why gSchool and Turing are awesome. They help you become productive.
 
->TL;DR - Please read all the questions and Answers before you send me questions. But I'm happy to add more answers
+# FAQ
 
 **Did you  have any prior web development or programming knowledge?**
 > Yes I had done a few online tutorials, like:
-  -  half of http://www.railstutorial.org/book
   -  codecademy
-  -  http://tutorials.jumpstartlab.com/
+  -  Jumpstartlab Tutorials
+    - [Ruby basics](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
+    - [Ruby CSV parser tutorial](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
+    - [Ruby Twitter Tutorial](http://tutorials.jumpstartlab.com/projects/microblogger.html)
+  -  (1/4) of http://www.railstutorial.org/book
 
 **Are you from the Boulder/Denver/SF area or did you have to find housing? If you needed housing, was it easy to find?**
 > I'm from Seattle. I left/sold everything I owned to move to Denver for the first gSchool in the first galvanize. I found housing on craigslist with another gSchool student. There was a brief period of time after getting accepted/before starting where we were introduced through email.
